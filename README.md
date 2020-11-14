@@ -1,0 +1,2 @@
+# -tugas-funfgsi
+tugas fungsi
